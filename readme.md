@@ -1,0 +1,1 @@
+A foray into geospatial data visualization with Django
